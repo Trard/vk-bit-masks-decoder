@@ -1,6 +1,6 @@
 {
   "name": "vk-bit-masks-decoder",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "lib to decode vk bit masks",
   "main": "./lib/index.js",
   "repository": {
