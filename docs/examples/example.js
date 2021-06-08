@@ -1,5 +1,5 @@
-const { perms, decodeBitMask } = require('vk-bit-masks-decoder')
+const { perms, decodeBitMask } = require('vk-bit-masks-decoder');
 
-const bitMask = 244236287
+const bitMask = 244236287;
 
-console.log(decodeBitMask(bitMask, perms.user))
+console.log(decodeBitMask(bitMask, perms.user));
