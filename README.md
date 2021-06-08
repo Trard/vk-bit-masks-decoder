@@ -4,7 +4,7 @@ Very simple script to decode vk bit masks
 
 ## Installation
 
-using npm:
+Using npm:
 ```shell
 npm i vk-bit-masks-decoder
 ```
