@@ -1,0 +1,24 @@
+{
+  "name": "vk-bit-masks-decoder",
+  "version": "1.0.0",
+  "description": "lib to decode vk bit masks",
+  "main": "./lib/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Trard/vk-bit-masks-decoder.git"
+  },
+  "keywords": [
+    "vk",
+    "bit",
+    "mask",
+    "decode",
+    "decoder",
+    "masks"
+  ],
+  "author": "Trard",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Trard/vk-bit-masks-decoder/issues"
+  },
+  "homepage": "https://github.com/Trard/vk-bit-masks-decoder#readme"
+}
