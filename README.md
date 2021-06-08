@@ -10,6 +10,7 @@ npm i vk-bit-masks-decoder
 ```
 
 ## Example usage:
+
 ```js
 const { perms, decodeBitMask } = require('vk-bit-masks-decoder')
 
@@ -36,3 +37,8 @@ console.log(decodeBitMask(bitMask, perms.user))
 ]
 */
 ```
+
+## Perms
+You can find from https://vk.com/dev/permissions two types of bit masks:
+- user
+- community
