@@ -16,4 +16,23 @@ const { perms, decodeBitMask } = require('vk-bit-masks-decoder')
 const bitMask = 244236287
 
 console.log(decodeBitMask(bitMask, perms.user))
+/*
+[
+  'notify',
+  'friends',
+  'photos',
+  'video',
+  'add_app_to_left_menu',
+  'status',
+  'messages',
+  'ads',
+  'offline',
+  'docs',
+  'groups',
+  'notifications',
+  'stats',
+  'email',
+  'market'
+]
+*/
 ```
